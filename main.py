@@ -6,7 +6,8 @@ import PyPDF2
 app = FastAPI()
 
 origins = [
-    "http://localhost:3000",  # Update with your Next.js app's URL
+    "http://localhost:3000", 
+     'https://www.examjuggad.site' # Update with your Next.js app's URL
     # Add any additional origins as needed
 ]
 
