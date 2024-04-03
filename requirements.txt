@@ -6,3 +6,4 @@ python-dotenv
 faiss-cpu
 fastapi
 uvicorn
+python-multipart
